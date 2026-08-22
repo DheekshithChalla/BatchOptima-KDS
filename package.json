@@ -1,0 +1,20 @@
+{
+  "name": "capacity-constrained-kitchen-batching",
+  "version": "2.0.0",
+  "description": "Capacity-Constrained Kitchen Batching Dashboard with 5-Minute Sliding Windows and Auto-Splitting (Speedcode 2026 @ NMIT)",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 server.py",
+    "serve": "npx serve -l 3000 ."
+  },
+  "keywords": [
+    "kitchen-batching",
+    "kds",
+    "speedcode-2026",
+    "bin-packing",
+    "hackathon-winner",
+    "nmit-bengaluru"
+  ],
+  "author": "Speedcode 2026 Participant",
+  "license": "MIT"
+}
