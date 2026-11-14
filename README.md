@@ -1,7 +1,7 @@
 # Kitchen.batching.dashboard
 #  BatchOptima KDS — Capacity-Constrained Kitchen Batching Engine
 ### *Submission for Speedcode 2026 @ Nitte Meenakshi Institute of Technology (NMIT), Bengaluru*
-
+### INSTANT DEMO LINK: [BatchOptima KDS](https://dheekshithchalla.github.io/Kitchen.batching.dashboard/)
 ---
 
 ##  Executive Summary & Problem Solved
@@ -14,7 +14,7 @@ In hyper-growth food delivery markets like Bengaluru, the traditional **"First-C
 4. **Live Radar & Sustainability Analytics:** Interactive Bengaluru zone map and mathematical bin-packing ROI metrics (42% fewer rider dispatches, reduced carbon footprint, 0% capacity violations).
 
 
-## Quick Start (Instant Run)
+## Steps to open BatchOptima KDS via Terminal
 
 You can run this project in **3 convenient ways** with zero complex setup:
 
