@@ -15,7 +15,7 @@ In hyper-growth food delivery markets like Bengaluru, the traditional **"First-C
 
 ---
 
-## ss Quick Start (Instant Run)
+## Quick Start (Instant Run)
 
 You can run this project in **3 convenient ways** with zero complex setup:
 
