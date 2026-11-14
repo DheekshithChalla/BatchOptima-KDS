@@ -1,10 +1,10 @@
 # Kitchen.batching.dashboard
-# 🚀 BatchOptima KDS — Capacity-Constrained Kitchen Batching Engine
+#  BatchOptima KDS — Capacity-Constrained Kitchen Batching Engine
 ### *Submission for Speedcode 2026 @ Nitte Meenakshi Institute of Technology (NMIT), Bengaluru*
 
 ---
 
-## 📌 Executive Summary & Problem Solved
+##  Executive Summary & Problem Solved
 In hyper-growth food delivery markets like Bengaluru, the traditional **"First-Come, First-Dispatched"** single-order delivery model leads to immense kitchen station bottlenecks, delivery bag thermal overloading, and excessive rider congestion across city arterial roads.
 
 **BatchOptima KDS** is a dual-constrained online kitchen batching and dispatch dashboard that solves this optimization challenge by combining:
