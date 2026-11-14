@@ -13,7 +13,6 @@ In hyper-growth food delivery markets like Bengaluru, the traditional **"First-C
 3. **End-to-End Kitchen Display System (KDS):** Multi-stage real-time pipeline (Accumulating ➔ Cooking/Prep Stations ➔ Packaging & QC ➔ Dispatched).
 4. **Live Radar & Sustainability Analytics:** Interactive Bengaluru zone map and mathematical bin-packing ROI metrics (42% fewer rider dispatches, reduced carbon footprint, 0% capacity violations).
 
----
 
 ## Quick Start (Instant Run)
 
